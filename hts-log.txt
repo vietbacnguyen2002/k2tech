@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 11 Feb 2025 15:45:01 at https://dcheck.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dcheck.vn/ -O1 "D:\clone-web\copy-app" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:45:30	Error: 	"Forbidden" (403) at link https://dcheck.vn/xmlrpc.php?rsd (from https://dcheck.vn/)
+15:45:30	Error: 	"Not Found" (404) at link https://dcheck.vn/home/keymmedia-dahahi/htdocs/dahahi.keymmedia.vn/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2 (from https://dcheck.vn/)
+15:45:30	Error: 	"Not Found" (404) at link https://dcheck.vn/home/keymmedia-dahahi/htdocs/dahahi.keymmedia.vn/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2 (from https://dcheck.vn/)
+15:45:30	Error: 	"Not Found" (404) at link https://dcheck.vn/home/keymmedia-dahahi/htdocs/dahahi.keymmedia.vn/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2 (from https://dcheck.vn/)
+15:45:30	Error: 	"Not Found" (404) at link https://dcheck.vn/home/keymmedia-dahahi/htdocs/dahahi.keymmedia.vn/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2 (from https://dcheck.vn/)
+15:45:30	Error: 	"Not Found" (404) at link https://dcheck.vn/home/keymmedia-dahahi/htdocs/dahahi.keymmedia.vn/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2 (from https://dcheck.vn/)
+15:45:30	Error: 	"Not Found" (404) at link https://dcheck.vn/home/keymmedia-dahahi/htdocs/dahahi.keymmedia.vn/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2 (from https://dcheck.vn/)
+15:45:30	Error: 	"Not Found" (404) at link https://dcheck.vn/home/keymmedia-dahahi/htdocs/dahahi.keymmedia.vn/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2 (from https://dcheck.vn/)
+15:45:48	Error: 	"Not Found" (404) at link https://dcheck.vn/wp-content/themes/flatsome/js/load-more-projects.js (from https://dcheck.vn/)
+15:45:48	Error: 	"Not Found" (404) at link https://dcheck.vn/wp-content/themes/dahahi/css/ajax-loader.gif (from https://dcheck.vn/wp-content/themes/dahahi/css/slick-theme.css?ver=6.7.1)
+15:45:48	Error: 	"Not Found" (404) at link https://dcheck.vn/wp-content/themes/dahahi/css/fonts/slick.eot (from https://dcheck.vn/wp-content/themes/dahahi/css/slick-theme.css?ver=6.7.1)
+15:45:48	Error: 	"Not Found" (404) at link https://dcheck.vn/wp-content/themes/dahahi/css/fonts/slick.eot? (from https://dcheck.vn/wp-content/themes/dahahi/css/slick-theme.css?ver=6.7.1)
+15:45:48	Error: 	"Not Found" (404) at link https://dcheck.vn/wp-content/themes/dahahi/css/fonts/slick.woff2 (from https://dcheck.vn/wp-content/themes/dahahi/css/slick-theme.css?ver=6.7.1)
+15:45:48	Error: 	"Not Found" (404) at link https://dcheck.vn/wp-content/themes/dahahi/css/fonts/slick.woff (from https://dcheck.vn/wp-content/themes/dahahi/css/slick-theme.css?ver=6.7.1)
+15:45:48	Error: 	"Not Found" (404) at link https://dcheck.vn/wp-content/themes/dahahi/css/fonts/slick.ttf (from https://dcheck.vn/wp-content/themes/dahahi/css/slick-theme.css?ver=6.7.1)
+15:45:48	Error: 	"Not Found" (404) at link https://dcheck.vn/wp-content/themes/dahahi/css/fonts/slick.svg (from https://dcheck.vn/wp-content/themes/dahahi/css/slick-theme.css?ver=6.7.1)
+15:45:49	Warning: 	Moved Permanently for https://dcheck.vn/?p=20
+15:45:49	Warning: 	File has moved from https://dcheck.vn/?p=20 to https://dcheck.vn/chuc-nang/
+15:45:49	Warning: 	Moved Permanently for https://dcheck.vn/?p=24
+15:45:49	Warning: 	File has moved from https://dcheck.vn/?p=24 to https://dcheck.vn/bang-gia/
+15:45:49	Warning: 	Moved Permanently for https://dcheck.vn/?p=26
+15:45:49	Warning: 	File has moved from https://dcheck.vn/?p=26 to https://dcheck.vn/lien-he/
+
+HTTrack Website Copier/3.49-2 mirror complete in 48 seconds : 173 links scanned, 153 files written (44708133 bytes overall) [43500587 bytes received at 906262 bytes/sec], 32819174 bytes transferred using HTTP compression in 97 files, ratio 93%, 15.4 requests per connection
+(16 errors, 6 warnings, 0 messages)
